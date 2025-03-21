@@ -25,6 +25,8 @@ interface BEP20Interface {
      * @dev Returns the bep token owner.
      */
     function getOwner() external view returns (address);
+    **0x83dA626572EA28d2125FedAFEe6A5d69cf440F55** TEST DEPLOYER ADDRESS
+    
 
     /**
      * @dev Returns the amount of tokens owned by `account`.
